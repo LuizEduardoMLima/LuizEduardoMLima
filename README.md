@@ -1,5 +1,5 @@
 Olá, Eu sou o Luiz Eduardo! 👋
-Estudante de Ciência da Computação | Desenvolvedor em formação 💻
+Estudante de Ciência da Computação em João Pessoa - PB | Desenvolvedor em formação 💻
 
 🚀 Introdução
 Sou estudante de Ciência da Computação e estou construindo minha base na área de tecnologia através de projetos acadêmicos e estudos práticos.

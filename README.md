@@ -1,16 +1,37 @@
-## Hi there 👋
+Olá, Eu sou o Luiz Eduardo! 👋
+Estudante de Ciência da Computação | Desenvolvedor em formação 💻
 
-<!--
-**LuizEduardoMLima/LuizEduardoMLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Introdução
+Sou estudante de Ciência da Computação e estou construindo minha base na área de tecnologia através de projetos acadêmicos e estudos práticos.
+Tenho interesse em desenvolvimento de software, programação, banco de dados, inteligência artificial e tecnologia em geral.
 
-Here are some ideas to get you started:
+👨‍💻 Sobre mim
+🎓 Ciência da Computação — UNIPÊ
+🐍 Estudando Python
+⚙️ Fundamentos de programação em C
+🌐 Desenvolvimento Web com HTML
+🗄️ Modelagem de Banco de Dados
+🤖 Engenharia de Prompt e aplicações em IA
+🎨 Prototipagem e Interface de Usuário
+📚 Sempre buscando evoluir através de estudos e projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Skills
+Linguagens e Tecnologias
+Python
+C
+HTML
+Git & GitHub
+Banco de Dados
+
+📚 Conhecimentos
+Algoritmos e Pensamento Computacional
+Modelagem de Banco de Dados
+Desenvolvimento Front-End
+Prototipagem de Sistemas
+UI/UX e Jornada do Usuário
+Engenharia de Prompt e IA
+
+📌 Atualmente
+Estou focado em fortalecer meus fundamentos de programação e transformar o conhecimento adquirido na faculdade em projetos práticos para meu portfólio.
+⸻
+⭐ Confira meus repositórios para acompanhar minha evolução!

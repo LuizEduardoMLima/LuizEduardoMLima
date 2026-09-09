@@ -15,14 +15,6 @@ Tenho interesse em desenvolvimento de software, programação, banco de dados, i
 🎨 Prototipagem e Interface de Usuário
 📚 Sempre buscando evoluir através de estudos e projetos
 
-🛠 Skills
-Linguagens e Tecnologias
-Python
-C
-HTML
-Git & GitHub
-Banco de Dados
-
 📚 Conhecimentos
 Algoritmos e Pensamento Computacional
 Modelagem de Banco de Dados
